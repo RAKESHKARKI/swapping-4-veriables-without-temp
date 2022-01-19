@@ -1,0 +1,21 @@
+package JavaTutorial;
+
+public class JavaTutorial_swapping_4_veriables_without_temp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int fn=1;
+		int sn=2;
+		int tn=3;
+		int ln=4;
+		
+		System.out.println("Before Swapping:->");
+		System.out.println("fn: " + fn + " sn: " + sn +" tn: "+ tn +" ln: "+fn+"");
+		
+		System.out.println("After Swapping:->");
+		System.out.println("fn: " + sn + " sn: " + tn +" tn: "+ ln +" ln: "+fn+"");
+
+	}
+
+}
